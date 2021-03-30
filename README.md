@@ -11,7 +11,7 @@
 
 ```javascript
 const nicco = {
-  code: [JS, HTML, CSS, PHP, SQL, Python, Java, C, C++],
+  code: [JS, HTML, CSS, PHP, SQL, Python, Java, C, C++]
 }
 ```
 
