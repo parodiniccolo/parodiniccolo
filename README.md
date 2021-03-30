@@ -3,7 +3,7 @@
 </em></p>
 
 [![Twitter: Niccolò Parodi](https://img.shields.io/twitter/follow/parodiniccolo?style=social)](https://twitter.com/parodiniccolo)
-[![Linkedin: Niccolò Parodi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parodiniccolo/)](https://www.linkedin.com/in/parodiniccolo/)
+[![Linkedin: Niccolò Parodi](https://img.shields.io/badge/-parodiniccolo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parodiniccolo/)](https://www.linkedin.com/in/parodiniccolo/)
 [![GitHub Niccolò Parodi](https://img.shields.io/github/followers/parodiniccolo?label=follow&style=social)](https://github.com/parodiniccolo)
 
 
