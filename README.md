@@ -1,5 +1,5 @@
 <h2> Hi, I'm Niccolò Parodi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Computer Science Student at <a href="https://unige.it/en">University of Genoa </a><img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="30"></br>Photographer - DOP at <a href="https://www.moviebox.it">moviebox </a><img src="https://media.giphy.com/media/fV8czd6oXVGQkBnXO2/giphy.gif" width="30"> 
+<p><em>Computer Science Student at <a href="https://unige.it/en">University of Genoa</a> <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="30"></br>Photographer - DOP at <a href="https://www.moviebox.it">moviebox</a> <img src="https://media.giphy.com/media/fV8czd6oXVGQkBnXO2/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Niccolò Parodi](https://img.shields.io/twitter/follow/parodiniccolo?style=social)](https://twitter.com/parodiniccolo)
