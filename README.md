@@ -1,6 +1,5 @@
 <h2> Hi, I'm Niccolò Parodi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer Science Student at <a href="https://unige.it/en">University of Genoa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Photographer - DOP
+<p><em>Computer Science Student at <a href="https://unige.it/en">University of Genoa</a>width="30"></br>Freelance Photographer - DOP
 </em></p>
 
 [![Twitter: Niccolò Parodi](https://img.shields.io/twitter/follow/parodiniccolo?style=social)](https://twitter.com/parodiniccolo)
