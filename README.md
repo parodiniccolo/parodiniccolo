@@ -1,5 +1,5 @@
 <h2> Hi, I'm Niccolò Parodi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Data Scientist at <a href="https://koernerevent.com">SEATED</a> <img src="https://media4.giphy.com/media/Y0zcC7peHLvOgZoSPB/giphy.gif" width="30"></br> M.Sc. Computer Science Student at <a href="https://www.tu.berlin/en/">TU Berlin</a> <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="30"></br>Photographer - DOP at <a href="https://www.moviebox.it">moviebox</a> <img src="https://media.giphy.com/media/fV8czd6oXVGQkBnXO2/giphy.gif" width="30"> 
+<p><em>Research Assistant at<a href="https://www.hhi.fraunhofer.de/en/index.html">Fraunhofer HHI</a> <img src="https://media4.giphy.com/media/Y0zcC7peHLvOgZoSPB/giphy.gif" width="30"></br> M.Sc. Computer Science Student at <a href="https://www.tu.berlin/en/">TU Berlin</a> <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="30"></br>Photographer - DOP at <a href="https://www.moviebox.it">moviebox</a> <img src="https://media.giphy.com/media/fV8czd6oXVGQkBnXO2/giphy.gif" width="30"> 
 </em></p>
 
 
